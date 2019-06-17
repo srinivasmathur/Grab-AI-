@@ -52,5 +52,4 @@ The Model achieved Roc_auc score of 0.704 on the test set.
 
 # How to test the Model
 
-Please specify the path of the hold-out set in the jupyter Notebook below the markdown cell 'Add hold-out data set here'.
- 
+Please specify the path of the hold-out set in markdown cell 'Add hold-out data set here' in the jupyter Notebook.
