@@ -23,7 +23,7 @@ The multiple Telematics data was provided for each bookingID.There are 10 datase
   
    1)number_of_trips- If a person makes more number of trips in a given period of time, it is very likely that he may drive fast and try make his way through narrow spaces by taking sudden turns.
     
-   The following features can give some idea about recless driving.High speed accompanied with high acceleration in left or right direction can be dangerous.
+   The following features can give some idea about reckless driving.High speed accompanied with high acceleration in left or right direction can be dangerous.
    
    2)acc_product
    3)speed_acc_x
