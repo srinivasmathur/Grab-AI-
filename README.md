@@ -32,4 +32,23 @@ The multiple Telematics data was provided for each bookingID.There are 10 datase
    6)speed_gyro_x 
    7)speed_gyro_y 
    8)speed_gyro_z  
-    
+  
+ c) Feature Scaling- All the features were scaled using MinMaxScaler.
+ 
+## Modeling: 
+I created an ensemble of three models.
+
+1)XGBOOST
+
+2)Catboost
+
+3)Catboost bagged 10 times.
+
+Used GridsearchCV to fine tune the hyperparameters of each model.
+
+The final ensemble model was trained on all the datasets (df1,df2....) except the df0 which was used as  a test set.
+
+The Model achieved Roc_auc score of 0.704 
+
+
+ 
