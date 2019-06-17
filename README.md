@@ -48,7 +48,7 @@ Used GridsearchCV to fine tune the hyperparameters of each model.
 
 The final ensemble model was trained on all the datasets (df1,df2....) except the df0 which was used as  a test set.
 
-The Model achieved Roc_auc score of 0.704 
+The Model achieved Roc_auc score of 0.704 on the test set.
 
 
  
