@@ -6,7 +6,7 @@ Multiple Telematics data was provided for each bookingID.There are 10 datasets c
 
 # Approach
 ## 1) Preprocessing
-  a) Grouping data : The data set contained several telematics datapoints for single bookingID.So, I grouped it by bookingID by taking          median of all the datapoints.
+  a) Grouping data : The data set contained several telematics datapoints for single bookingID.So, I grouped it by bookingID by taking the median of all the datapoints.
   
   b) Feature Engineering : I created following features.
   
@@ -21,7 +21,7 @@ Multiple Telematics data was provided for each bookingID.There are 10 datasets c
     
   Justification for the features-
   
-   1)number_of_trips- If a person makes more number of trips in a given period of time, it is very likely that he may drive fast and try make his way through narrow spaces by taking sudden turns.
+   1)number_of_trips- If a person makes more number of trips in a given period of time, it is very likely that he may drive fast and try to make his way through narrow spaces by taking sudden turns.
     
    The following features can give some idea about reckless driving.High speed accompanied with high acceleration in left or right direction can be dangerous.
    
