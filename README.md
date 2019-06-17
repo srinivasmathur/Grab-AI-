@@ -25,11 +25,11 @@ The multiple Telematics data was provided for each bookingID.There are 10 datase
     
    The following features can give some idea about reckless driving.High speed accompanied with high acceleration in left or right direction can be dangerous.
    
-   2)acc_product
-   3)speed_acc_x
-   4)speed_acc_y
-   5)speed_acc_z
-   6)speed_gyro_x
-   7)speed_gyro_y
-   8)speed_gyro_z-
+   2)acc_product 
+   3)speed_acc_x 
+   4)speed_acc_y 
+   5)speed_acc_z 
+   6)speed_gyro_x 
+   7)speed_gyro_y 
+   8)speed_gyro_z  
     
