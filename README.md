@@ -1,7 +1,7 @@
 # Grab-AI Safety -
 
 # Problem Statement
-Multiple Telematics data was provided for each bookingID.There are 10 datasets containing about 16,00,000 rows each and 20,018 unique bookingIDs with the label.The objective is to make a model that can detect dangerous driving trips.
+Multiple Telematics data is provided for each bookingID.There are 10 datasets containing about 16,00,000 rows each and 20,018 unique bookingIDs with the label.The objective is to make a model that can detect dangerous driving trips.
 
 # Approach
 ## 1) Preprocessing
