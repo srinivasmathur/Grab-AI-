@@ -1,4 +1,4 @@
-# Grab-AI Safety -
+# Grab-AI : Safety Challenge
 
 # Problem Statement
 Multiple Telematics data is provided for each bookingID.There are 10 datasets containing about 16,00,000 rows each and 20,018 unique bookingIDs with the label.The objective is to make a model that can detect dangerous driving trips.
